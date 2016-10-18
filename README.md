@@ -2,3 +2,4 @@
 # Adding a new branch -dev
 # Dedao is amazing place to let you begin a new way to your lift
 # Use branch is easy way to collaplation.
+# Creating a new branch is quick and simple.
